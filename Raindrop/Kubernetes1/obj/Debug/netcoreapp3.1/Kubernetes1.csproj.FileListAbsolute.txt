@@ -1,0 +1,9 @@
+E:\lab\raindrop\Raindrop\Kubernetes1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\lab\raindrop\Raindrop\Kubernetes1\bin\Debug\netcoreapp3.1\appsettings.json
+E:\lab\raindrop\Raindrop\Kubernetes1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\lab\raindrop\Raindrop\Kubernetes1\obj\Debug\netcoreapp3.1\Kubernetes1.AssemblyInfoInputs.cache
+E:\lab\raindrop\Raindrop\Kubernetes1\obj\Debug\netcoreapp3.1\Kubernetes1.AssemblyInfo.cs
+E:\lab\raindrop\Raindrop\Kubernetes1\obj\Debug\netcoreapp3.1\Kubernetes1.RazorTargetAssemblyInfo.cache
+E:\lab\raindrop\Raindrop\Kubernetes1\obj\Debug\netcoreapp3.1\staticwebassets\Kubernetes1.StaticWebAssets.Manifest.cache
+E:\lab\raindrop\Raindrop\Kubernetes1\obj\Debug\netcoreapp3.1\staticwebassets\Kubernetes1.StaticWebAssets.xml
+E:\lab\raindrop\Raindrop\Kubernetes1\obj\Debug\netcoreapp3.1\Kubernetes1.csprojAssemblyReference.cache

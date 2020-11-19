@@ -1,0 +1,40 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: raindrop-a-service
+  namespace: raindrop
+  labels:
+    name: raindrop-a-service
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      name: raindrop-a-service
+  template:
+    metadata:
+      labels:
+        name: raindrop-a-service
+    spec:
+      containers:
+      - name: a-service
+        image: denggaopan/raindrop-a-service:1.0
+        ports:
+        - containerPort: 80
+        imagePullPolicy: IfNotPresent
+
+---
+
+kind: Service
+apiVersion: v1
+metadata:
+  name: a-service
+  namespace: raindrop
+  labels:
+    k8s-app: a-service
+spec:
+  type: ClusterIP
+  ports:
+    - port: 80
+      targetPort: 80
+  selector:
+    name: raindrop-a-service

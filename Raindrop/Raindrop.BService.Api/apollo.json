@@ -1,0 +1,13 @@
+{
+  "Apollo": {
+    "AppId": "apollo-demo-pauldeng",
+    "MetaServer": "http://106.54.227.205:8080/",
+    "Env": "DEV",
+    "Meta": {
+      "DEV": "http://localhost:8080/",
+      "FAT": "http://localhost:8080/",
+      "UAT": "http://localhost:8080/",
+      "PRO": "http://localhost:8080/"
+    }
+  }
+}

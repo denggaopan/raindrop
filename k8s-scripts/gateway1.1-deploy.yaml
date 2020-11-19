@@ -1,0 +1,40 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: raindrop-gateway
+  namespace: raindrop
+  labels:
+    name: raindrop-gateway
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      name: raindrop-gateway
+  template:
+    metadata:
+      labels:
+        name: raindrop-gateway
+    spec:
+      containers:
+      - name: gateway
+        image: denggaopan/raindrop-gateway-api:1.1
+        ports:
+        - containerPort: 80
+        imagePullPolicy: IfNotPresent
+
+---
+
+kind: Service
+apiVersion: v1
+metadata:
+  name: gateway
+  namespace: raindrop
+  labels:
+    k8s-app: gateway
+spec:
+  type: NodePort
+  ports:
+    - port: 80
+      targetPort: 80
+  selector:
+    name: raindrop-gateway

@@ -1,0 +1,12 @@
+E:\lab\raindrop\Raindrop\Raindrop.AService.ApiClient\bin\Debug\netstandard2.1\Raindrop.AService.ApiClient.deps.json
+E:\lab\raindrop\Raindrop\Raindrop.AService.ApiClient\bin\Debug\netstandard2.1\Raindrop.AService.ApiClient.dll
+E:\lab\raindrop\Raindrop\Raindrop.AService.ApiClient\obj\Debug\netstandard2.1\Raindrop.AService.ApiClient.AssemblyInfoInputs.cache
+E:\lab\raindrop\Raindrop\Raindrop.AService.ApiClient\obj\Debug\netstandard2.1\Raindrop.AService.ApiClient.AssemblyInfo.cs
+E:\lab\raindrop\Raindrop\Raindrop.AService.ApiClient\bin\Debug\netstandard2.1\Raindrop.AService.ApiClient.pdb
+E:\lab\raindrop\Raindrop\Raindrop.AService.ApiClient\obj\Debug\netstandard2.1\Raindrop.AService.ApiClient.csproj.CoreCompileInputs.cache
+E:\lab\raindrop\Raindrop\Raindrop.AService.ApiClient\obj\Debug\netstandard2.1\Raindrop.AService.ApiClient.dll
+E:\lab\raindrop\Raindrop\Raindrop.AService.ApiClient\obj\Debug\netstandard2.1\Raindrop.AService.ApiClient.pdb
+E:\lab\raindrop\Raindrop\Raindrop.AService.ApiClient\obj\Debug\netstandard2.1\Raindrop.AService.ApiClient.csprojAssemblyReference.cache
+E:\lab\raindrop\Raindrop\Raindrop.AService.ApiClient\bin\Debug\netstandard2.1\Raindrop.Common.OpenApi.dll
+E:\lab\raindrop\Raindrop\Raindrop.AService.ApiClient\bin\Debug\netstandard2.1\Raindrop.Common.OpenApi.pdb
+E:\lab\raindrop\Raindrop\Raindrop.AService.ApiClient\obj\Debug\netstandard2.1\Raindrop.AService.ApiClient.csproj.CopyComplete

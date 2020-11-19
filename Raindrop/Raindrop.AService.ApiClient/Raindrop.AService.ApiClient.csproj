@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="WebApiClientCore" Version="1.1.0" />
+    <PackageReference Include="WebApiClientCore.Extensions.NewtonsoftJson" Version="1.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Raindrop.Common.OpenApi\Raindrop.Common.OpenApi.csproj" />
+  </ItemGroup>
+
+</Project>

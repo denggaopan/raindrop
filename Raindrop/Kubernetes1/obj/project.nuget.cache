@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fj7U1nZFLvV1cD7W7809fH8Oym0KW5fOmKWK1GT5uODrSz75hBXQdVtujGdm2l++CHL+0ANcf1ox1FwwinuPDQ==",
+  "success": true,
+  "projectFilePath": "E:\\lab\\raindrop\\Raindrop\\Kubernetes1\\Kubernetes1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.visualstudio.azure.kubernetes.tools.targets\\1.1.0\\microsoft.visualstudio.azure.kubernetes.tools.targets.1.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
