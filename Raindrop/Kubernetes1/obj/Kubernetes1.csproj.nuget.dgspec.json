@@ -23,6 +23,7 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "http://119.3.146.3:8080/nuget": {},
+          "http://nuget.kingcome.net.cn/nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
