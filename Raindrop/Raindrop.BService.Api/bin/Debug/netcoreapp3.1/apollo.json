@@ -1,13 +1,16 @@
 {
   "Apollo": {
-    "AppId": "apollo-demo-pauldeng",
-    "MetaServer": "http://106.54.227.205:8080/",
+    "AppId": "raindrop.bservice",
+    "Cluster": "default",
+    "MetaServer": null,
+    "Secret": "9f1c15be109c4eb0990e1f1dd7036f31",
     "Env": "DEV",
     "Meta": {
-      "DEV": "http://localhost:8080/",
-      "FAT": "http://localhost:8080/",
+      "DEV": "http://122.112.251.166:8080/",
+      "FAT": "http://119.3.104.149:8080/",
       "UAT": "http://localhost:8080/",
       "PRO": "http://localhost:8080/"
-    }
+    },
+    "RefreshInterval": 300000
   }
 }

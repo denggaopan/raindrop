@@ -1,7 +1,6 @@
 E:\lab\raindrop\Raindrop\Raindrop.Common.OpenApi\bin\Debug\netstandard2.0\Raindrop.Common.OpenApi.deps.json
 E:\lab\raindrop\Raindrop\Raindrop.Common.OpenApi\bin\Debug\netstandard2.0\Raindrop.Common.OpenApi.dll
 E:\lab\raindrop\Raindrop\Raindrop.Common.OpenApi\bin\Debug\netstandard2.0\Raindrop.Common.OpenApi.pdb
-E:\lab\raindrop\Raindrop\Raindrop.Common.OpenApi\obj\Debug\netstandard2.0\Raindrop.Common.OpenApi.csprojAssemblyReference.cache
 E:\lab\raindrop\Raindrop\Raindrop.Common.OpenApi\obj\Debug\netstandard2.0\Raindrop.Common.OpenApi.AssemblyInfoInputs.cache
 E:\lab\raindrop\Raindrop\Raindrop.Common.OpenApi\obj\Debug\netstandard2.0\Raindrop.Common.OpenApi.AssemblyInfo.cs
 E:\lab\raindrop\Raindrop\Raindrop.Common.OpenApi\obj\Debug\netstandard2.0\Raindrop.Common.OpenApi.csproj.CoreCompileInputs.cache

@@ -6,7 +6,7 @@
       "DownstreamPathTemplate": "/api/{url}",
       "DownstreamScheme": "http",
       "UseServiceDiscovery": true,
-      "ServiceName": "a-service"
+      "ServiceName": "raindrop-aservice"
     },
     {
       "UpstreamPathTemplate": "/b/{url}",
@@ -14,7 +14,7 @@
       "DownstreamPathTemplate": "/api/{url}",
       "DownstreamScheme": "http",
       "UseServiceDiscovery": true,
-      "ServiceName": "b-service"
+      "ServiceName": "raindrop-bservice"
     }
   ],
   "GlobalConfiguration": {
